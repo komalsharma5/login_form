@@ -1,0 +1,1 @@
+module.exports.Register_account_C = require('./controller')
